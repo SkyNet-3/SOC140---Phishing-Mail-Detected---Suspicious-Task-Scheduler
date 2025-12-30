@@ -1,1 +1,1 @@
-# SOC140---Phishing-Mail-Detected---Suspicious-Task-Scheduler
+# SOC140-Phishing-Mail-Detected-Suspicious-Task-Scheduler
